@@ -1,0 +1,45 @@
+# Portfolio-
+A page for my portfolio 
+<!DOCTYPE html>
+<lang="en">
+<Head>
+<Title> My Resume </title>
+</Head>
+<Body>
+<h1> Lux Mavis</h1>
+<h6>3046 Wayward Pines Way <br /> 
+Wayward Pines, Idaho 85226 <br /> 
+(217)-848-8484 <br />
+Email: WestJeffersonJohnson@Idc.com
+</h6>
+<hr />
+<h1> Employment for the cause </h1>
+<ol>
+<li><h5>Reporting the Rebels</h5>
+	<ol><li>Employer: Old New York</li>
+		<li>I was a: Reporter</li>
+		<li>2040-Present</li>
+	</ol>
+</li>
+</ol>
+<hr />
+<h1>Hobbies</h1>
+<ol>
+<li><h5>As if I have the time for them</h5>
+	<ol><li>Running from monsters</li>
+		<li>Ghost Hunting</li>
+		<li>Trying to find food</li>
+	</ol>
+</li>
+</ol>
+<hr />
+<h1>People to contact</h1>
+<ol>
+<li><h5>You can try if they are not eaten</h5>
+	<ol><li>The Guy that helped me find food</li>
+		<li>The Girl that was by best friend</li>
+		<li>The News</li>
+	</ol>
+</li>
+</ol>
+</Body>
