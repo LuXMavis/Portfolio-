@@ -3,6 +3,7 @@ A page for my portfolio
 <!DOCTYPE html>
 <lang="en">
 <Head>
+<link type="text/css" rel="stylesheet" href="Stylesheet.css"/>
 <Title> My Resume </title>
 </Head>
 <Body>
