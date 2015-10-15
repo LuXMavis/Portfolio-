@@ -1,13 +1,13 @@
 Body { 
 color: red;
 background-color: Blue; 
-Font-Family: Verdana;
-Font-size: 16x; 
+font-family: Verdana;
+font-size: 16x; 
 }
 P {
-Font-family:Gardena; 
-Color:Blue;
-Font-size: 8x;
+font-family:Gardena; 
+color:Blue;
+font-size: 8x;
 }
 h1 {color: green;}
 h6 {color: golden;}
