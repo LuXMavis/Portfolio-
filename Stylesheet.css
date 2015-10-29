@@ -9,9 +9,19 @@ font-size: 68px;
 }
 .adress{
 text-align: center;
-font-size: 35px;
+font-size: 25px;
 }
 h6{
 color: #E86522
+}
+.hope {
+text-align: center;
+font-family: Sim San;
+font-size: 50px;
+}
+.time{ 
+Text-align: left-right;
+color: #E88522;
+font-family: Andale Mono;
 }
 
