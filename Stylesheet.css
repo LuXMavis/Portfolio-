@@ -4,7 +4,7 @@ background-color: #FFF6E9;
 font-size: 16px; 
 }
 .name {text-align:center;
-font-family: Apple Chancery;
+font-family: Times;
 font-size: 68px;
 }
 .adress{
@@ -16,12 +16,12 @@ color: #E86522
 }
 .hope {
 text-align: center;
-font-family: Sim San;
+font-family: Times ;
 font-size: 50px;
 }
 .time{ 
 Text-align: left-right;
 color: #E88522;
-font-family: Andale Mono;
+font-family: Times;
 }
 
