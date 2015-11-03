@@ -14,14 +14,15 @@ font-size: 35px;
 h6{
 color: #E86522
 }
-#photo{
-  https://www.flickr.com/photos/123806931@N05/13966405866/in/album-72157644208906086/;
+a:link{
+    text-decoration: none;
+    color:#008B45;
 }
-.lily{
-  font-size:68px;
-  font-family: Apple Chancery;
-  }
-  .hot{
-    font-size: 68px;
-    font-family:Apple Chancery;
-  }
+
+a:hover{
+    color:#00FF00;
+}
+
+a:visited{
+    color:#EE9A00;
+}
