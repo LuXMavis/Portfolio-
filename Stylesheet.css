@@ -43,4 +43,5 @@ img{
 }
 div{
 	position: fixed;
+	margin: top left;
 }
