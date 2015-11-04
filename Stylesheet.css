@@ -41,3 +41,6 @@ img{
 	font-family: courier new;
 	font-size: 35px;
 }
+div{
+	position: fixed;
+}
