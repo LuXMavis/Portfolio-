@@ -10,6 +10,7 @@ font-size: 68px;
 .adress{
 text-align: center;
 font-size: 35px;
+font-family: courier new;
 }
 h6{
 color: #E86522
@@ -37,6 +38,6 @@ img{
 }
 .crabs { 
 	text-align: center;
-	font-family: San Sims;
+	font-family: courier new;
 	font-size: 35px;
 }
