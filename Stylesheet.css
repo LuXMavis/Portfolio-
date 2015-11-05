@@ -1,7 +1,8 @@
 body { 
 color: #FFB94C;
 background-color: #FFF6E9; 
-font-size: 16px; 
+font-size: 16px;
+background-image: url("https://scontent.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11891141_544534445694708_2053586726192061516_n.jpg?oh=181b12cafb09774ae962dcc4b07ae471&oe=56F75770");
 }
 .name {text-align:center;
 font-family: Apple Chancery;
